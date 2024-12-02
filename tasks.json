@@ -1,0 +1,23 @@
+{
+    "tasks": [
+        {
+            "id": 30,
+            "title": "Test Task",
+            "description": "Description",
+            "category": "Work",
+            "due_date": "2024-12-31",
+            "priority": "средний",
+            "status": "не выполнена"
+        },
+        {
+            "id": 31,
+            "title": "title2",
+            "description": "new_description",
+            "category": "cat2",
+            "due_date": "2024-12-30",
+            "priority": "высокий",
+            "status": "выполнена"
+        }
+    ],
+    "current_id": 32
+}
